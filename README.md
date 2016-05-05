@@ -11,8 +11,8 @@
 Before start here make sure you have all of the above requirements fully installed.
 
 ```sh
-$ git clone https://github.com/ioGrow/CRM-analytics.git
-$ cd CRM-analytics
+$ git clone https://github.com/ioGrow/reseller.git
+$ cd reseller
 $ fab install
 ```
 
