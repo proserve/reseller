@@ -1,0 +1,4 @@
+flask-restful
+flask
+PyJWT
+google-api-python-client
