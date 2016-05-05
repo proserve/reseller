@@ -7,3 +7,4 @@ coverage/
 dist/
 /app/lib
 /temp
+*.pyc
